@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Matching Game</string>
+    <string name="welcome_message">NAME THAT TIGER!!!!</string>
+    <string name="start_comparison">Play comparison</string>
+    <string name="start_mc">Play multiple choice</string>
+    <string name="visit_care">http://www.carerescuetexas.com</string>
+    <string name="about">About</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+    <string name="guess_comparison">Guess which Tiger is Tony</string>
+    <string name="dummytext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in rutrum libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum dictum, augue in volutpat mollis, risus nunc varius risus, a tempus lacus nibh vitae diam. Donec tempor volutpat nulla, convallis interdum erat. Mauris tristique gravida ante a molestie. Mauris accumsan ultricies volutpat. Praesent velit tortor, mattis non nibh eu, rutrum lacinia lectus. Phasellus nec mauris nec est ultrices imperdiet. Donec vitae auctor purus. Integer interdum nisi ac felis facilisis, nec gravida quam tempus. Vestibulum consequat malesuada massa posuere faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
+    <string name="back">back</string>
+</resources>
